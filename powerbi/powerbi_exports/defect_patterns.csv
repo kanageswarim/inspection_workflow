@@ -1,0 +1,6 @@
+RequestCategory,TotalInspected,Failures,FailRate%
+Safety,160,60,37.5
+Preventive,146,54,37.0
+Electrical,137,48,35.0
+Mechanical,150,48,32.0
+Quality,136,41,30.1
